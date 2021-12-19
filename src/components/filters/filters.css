@@ -1,0 +1,13 @@
+
+.filters__container {
+    margin-top: 20px;
+    border-top: solid black 3px;
+}
+
+.filters__input {
+    width: 240px;
+}
+
+.filters__spending {
+    font-family: monospace;
+}

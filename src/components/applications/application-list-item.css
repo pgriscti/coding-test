@@ -1,0 +1,14 @@
+.application-list-item__container {
+    border: solid 3px black;
+    border-radius: 5px;
+    background-color: aliceblue;
+    box-shadow: 4px 4px lightgray;
+    height: 100px;
+    margin: 5px;
+    text-align: center;
+    width: 200px;
+}
+.application-list-item__spend {
+    font-family: monospace;
+    font-size: 15px;
+}
