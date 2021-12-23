@@ -1,6 +1,6 @@
-# Pharos Coding Exercise
+# Coding Exercise
 
-This exercise is to help us better understand your experience in react and typescript, how you would go about structuring your work, code quality, styles, etc...
+This exercise is to help us understand your experience in react and typescript.
 
 ## Setup
 
@@ -16,10 +16,10 @@ Launch application in browser at [http://localhost:3000](http://localhost:3000).
 We would like you build a simple data explorer as shown in the image below. This is just a wireframe guide to get you started, you may style it in any way you like to improve the design and UX.
 
 
-![Pharos Coding Exercise wireframe](/pharos-coding-exercise.png)
+![Coding Exercise wireframe](/coding-exercise.png)
 
 
-The data is a list of application records and is fetchable at `/data`. Each application has 3 levels of business capabilities. Business capabilities are hierarchical as shown in the image (Business capability 1 -> Business capability 2 -> Business capability 3)
+The data is a list of application records and is fetchable at `/data`. Each application has 3 levels.
 Important: Use the data file provided
 
 The app should -
