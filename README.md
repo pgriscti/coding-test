@@ -2,18 +2,10 @@
 
 This exercise is to help us understand your experience in react and typescript.
 
-## Setup
-
-To get started, install the dependencies with `npm install`.
-
-Run the application with `npm start`.
-
-Launch application in browser at [http://localhost:3000](http://localhost:3000).
-
 
 ## Task
 
-We would like you build a simple data explorer as shown in the image below. This is just a wireframe guide to get you started, you may style it in any way you like to improve the design and UX.
+build a simple data explorer as shown in the image. 
 
 
 ![Coding Exercise wireframe](/coding-exercise.png)
